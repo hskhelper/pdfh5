@@ -4,7 +4,7 @@ import { ref, onMounted } from 'vue';
 const demo = ref()
 onMounted(() => {
   new Pdfh5(demo.value, {
-    pdfurl: "./git.pdf"
+    pdfurl: "./XiaopengLi.pdf"
   });
 });
 </script>

@@ -8,7 +8,7 @@ import { onMounted } from 'vue';
 
 onMounted(() => {
   new Pdfh5('#demo', {
-    pdfurl: "./git.pdf"
+    pdfurl: "./XiaopengLi.pdf"
   });
 });
 </script>

@@ -25,7 +25,7 @@
 
 ### pdfh5在线预览 （建议使用谷歌浏览器F12手机模式打开预览）
 
--  [https://www.gjtool.cn/pdfh5/pdf.html?file=https://www.gjtool.cn/pdfh5/git.pdf](https://www.gjtool.cn/pdfh5/pdf.html?file=https://www.gjtool.cn/pdfh5/git.pdf)  
+-  [https://www.gjtool.cn/pdfh5/pdf.html?file=https://www.gjtool.cn/pdfh5/XiaopengLi.pdf](https://www.gjtool.cn/pdfh5/pdf.html?file=https://www.gjtool.cn/pdfh5/XiaopengLi.pdf)  
 
 
 ## 快速使用（有两种方式）
@@ -182,7 +182,7 @@ var pdfh5 = new Pdfh5('#demo', {
 1.
 ```javascript
 new Pdfh5('#demo', {
-	pdfurl: "git.pdf",
+	pdfurl: "XiaopengLi.pdf",
 	// responseType: "blob" // blob arraybuffer
 });
 ```

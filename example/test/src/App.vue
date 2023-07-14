@@ -12,10 +12,10 @@ export default {
   },
   mounted() {
      new Pdfh5('#demo', {
-         pdfurl: "./static/git.pdf"
+         pdfurl: "./static/XiaopengLi.pdf"
        });
-    
-  
+
+
   }
 };
 </script>

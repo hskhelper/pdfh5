@@ -5,7 +5,7 @@ import Pdf from './pdf.js'
 function App() {
   return (
     <div className="App">
-      <Pdf src= './git.pdf' />
+      <Pdf src= './XiaopengLi.pdf' />
     </div>
   );
 }
