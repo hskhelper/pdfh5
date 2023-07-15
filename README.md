@@ -57,7 +57,7 @@
 
 ```javascript
 var pdfh5 = new Pdfh5('#demo', {
-  pdfurl: "./default.pdf"
+  pdfurl: "./XiaopengLi.pdf"
 });
 ```
 
@@ -140,7 +140,7 @@ var pdfh5 = new Pdfh5(selector, options);
 
 ```javascript
 var pdfh5 = new Pdfh5('#demo', {
-	pdfurl: "./default.pdf"
+	pdfurl: "./XiaopengLi.pdf"
 });
 ```
 
