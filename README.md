@@ -25,7 +25,7 @@
 
 ### pdfh5在线预览 （建议使用谷歌浏览器F12手机模式打开预览）
 
--  [https://www.gjtool.cn/pdfh5/pdf.html?file=https://www.gjtool.cn/pdfh5/XiaopengLi.pdf](https://www.gjtool.cn/pdfh5/pdf.html?file=https://www.gjtool.cn/pdfh5/XiaopengLi.pdf)  
+-  [https://www.gjtool.cn/pdfh5/index.html?file=https://www.gjtool.cn/pdfh5/XiaopengLi.pdf](https://www.gjtool.cn/pdfh5/index.html?file=https://www.gjtool.cn/pdfh5/XiaopengLi.pdf)  
 
 
 ## 快速使用（有两种方式）
