@@ -88,7 +88,7 @@ npm install pdfh5
 	mounted() {
 		//实例化
 	  this.pdfh5 = new Pdfh5("#demo", {
-		pdfurl: "../../static/test.pdf",
+		pdfurl: "../../static/XiaopengLi.pdf",
 		// cMapUrl:"https://unpkg.com/pdfjs-dist@3.8.162/cmaps/",
 		// responseType: "blob" // blob arraybuffer
 	  });
